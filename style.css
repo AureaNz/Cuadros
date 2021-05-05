@@ -1,0 +1,52 @@
+.contenedor{
+    width: 200px;
+    height: 200px;
+    background: #D5D8DC;
+    position: relative;
+    margin: 100px;
+  }
+  
+  .cuadrito1{
+    width:20%;
+    height:20%;
+    background: #85C1E9;
+    position: absolute;
+    top: 0;
+    left: 0;  
+  }
+  
+  .cuadrito2{
+    width:20%;
+    height:20%;
+    background: #F7DC6F;
+    position: absolute;
+    top: 0;
+    left: 80%;  
+  }
+  
+  .cuadrito3{
+    width:20%;
+    height: 20%;
+    background: #82E0AA;
+    position: absolute;
+    top: 80%;
+    left: 80%;  
+  }
+  
+  .cuadrito4{
+    width:20%;
+    height:20%;
+    background: #F1948A;
+    position: absolute;
+    top: 80%;
+    left: 0;  
+  }
+  
+  .cuadrito5{
+    width:20%;
+    height:20%;
+    background: #A569BD;
+    position: absolute;
+    top: 40%;
+    left: 40%;  
+  }
